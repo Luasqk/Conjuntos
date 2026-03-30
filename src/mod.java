@@ -6,7 +6,7 @@ public class mod {
             int resto = a%b;
             int div = a/b;
 
-            System.out.println(a + " = " + b + " * " + div + " + " + resto);
+            System.out.println(a + " = " + b + " * " + div + " + " + resto );
             a = b;
             b = resto;
         }
