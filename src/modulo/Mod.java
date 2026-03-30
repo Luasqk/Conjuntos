@@ -1,6 +1,8 @@
+package modulo;
+
 import java.util.Scanner;
 
-public class mod {
+public class Mod {
     public static int mod(int a, int b){
         while(b != 0){
             int resto = a%b;

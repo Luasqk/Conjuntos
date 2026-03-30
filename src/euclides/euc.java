@@ -1,3 +1,5 @@
+package euclides;
+
 import java.util.Scanner;
 
 public class euc {
